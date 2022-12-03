@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecuritty Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/soldier400/)
+  - [Active Directory Home Lab](https://github.com/soldier400/ActiveDirectoryLab/blob/main/README.md)
 - [Setup SIEM in Azure](https://github.com/soldier400/)
 - [File Integrity Monitor](https://github.com/soldier400/)
 - [Create a Vulnerability Management Lab](https://github.com/soldier400/)
